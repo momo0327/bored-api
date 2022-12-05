@@ -1,0 +1,29 @@
+body {
+    height: 100vh;
+    margin: 0;
+    background-color: rgb(35, 52, 110);
+}
+
+header {
+    align-items: center;
+    font-size: 210%;
+}
+
+.text {
+    font-size: 200%;
+    
+}
+
+#btn:hover {
+    font-size: 1rem;
+}
+
+main {
+    margin: auto;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1rem;
+}
